@@ -1,0 +1,6 @@
+ComputerProgrammingLab/LabReports/
+
+*.o
+*.exe
+*.pdf
+*.doc*
