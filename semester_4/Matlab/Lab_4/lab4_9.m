@@ -1,0 +1,15 @@
+signal = input('Enter the signal: ');
+n = [1:length(signal)];
+sampling_factor = 2;
+up = upsample(signal, sampling_factor);
+subplot(2,1,1);
+stem(n, signal);
+xlabel('Sample Number');
+ylabel('Amplitude');
+title('Original Sample');
+n = [1:length(up)];
+subplot(2,1,2);
+stem(n, up);
+xlabel('Sample Number');
+ylabel('Amplitude');
+title('Upsampled Sample');
