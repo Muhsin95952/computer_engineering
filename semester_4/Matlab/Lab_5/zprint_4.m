@@ -1,4 +1,8 @@
-function [multiply, divid] = zprint_3(z, y)
+%   Take two complex numbers and compute z1z2 and z1/z2. 
+%   Use zprint to display the results numerically.
+
+
+function [multiply, divid] = zprint_4(z, y)
 multiply = z*y;
 divid = z/y;
 
