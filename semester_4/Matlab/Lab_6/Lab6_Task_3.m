@@ -1,3 +1,12 @@
+%{  
+     Given the signal exp(?x)sin(8x) for 0?x?2?, plot its continuous?time 
+     and discrete?time representations. Use subplot and label properly.
+%}
+
+clc 
+clear
+clear all
+
 x  = 0:0.001:(2*pi);
 y = exp(-x).*sin(8*x);
 subplot(2, 1, 1)
