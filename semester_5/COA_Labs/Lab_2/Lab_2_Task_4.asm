@@ -14,40 +14,37 @@
 .text
 .globl main
 main:
-		# Enter AGE
+			# To show a msg "Enter AGE"
 	li $v0, 4
 	la $a0, msg
 	syscall
 
-	li $v0, 5
+	li $v0, 5	# Store AGE in t1 from user
 	syscall
 	move $t1, $v0
 
-	li $t2, 18
+	li $t2, 18	# store 18 in t2 register
 
-	bge $t1, $t2, eligible
-	blt $t1, $t2, not_eligible
+	bge $t1, $t2, eligible		# if AGE >= 18
+	blt $t1, $t2, not_eligible	# if AGE < 18
 
-eligible:
-        
+eligible:		# show msg if eligible
         li $v0, 4
 	la $a0, msg1
 	syscall
 	j exit
 
-not_eligible:
-        
+not_eligible:		# show msg if NOT eligible
         li $v0, 4
 	la $a0, msg2
 	syscall
 	j exit
 
-exit:
+exit:			# Exit the program
 	li $v0, 10
 	syscall
 
 .data
-
 msg: .asciiz"Enter a number:  "
 msg1: .asciiz"You are Eligible for CNIC "
 msg2: .asciiz"You are NOT Eligible for CNIC "
