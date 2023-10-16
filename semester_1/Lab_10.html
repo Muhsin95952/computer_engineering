@@ -1,0 +1,55 @@
+<html align="center">
+ <tittl>
+    DCSE
+    </tittl>   
+    
+ <h1>CALCULATOR </h1> <br><br>  
+    <script>
+    function func(){
+        var x=parseInt(document.getElementById("a").value);
+        var y=document.getElementById("b").value;
+        var z=parseInt(document.getElementById("c").value);
+        
+   if (y=="+") {
+       document.getElementById("123").innerHTML=x+z;
+       
+   }    
+    else if(y=="-"){
+       document.getElementById("123").innerHTML=x-z;
+    }    
+   else if(y=="*"){
+       document.getElementById("123").innerHTML=x*z;
+    }         
+             
+     else if(y=="/"){
+       document.getElementById("123").innerHTML=x/z;
+    }       
+        else {
+       document.getElementById("123").innerHTML="wrong symbol";
+    }    
+    }
+    
+    
+    
+    
+    
+    </script>
+    
+   
+    
+    <body style="font-family: cursive"; bgcolor="aqua">
+    <forms> <fieldset> <legend>CALCULATOR</legend>
+       Enter number 1: <input type="number" id="a"><br><BR>
+               symbol: <input type="symbol" id="b"><br><BR>
+          Enter number 2:      <input type="number" id="c"><br><BR>
+      
+       </fieldset> </forms>
+    <button onclick="func()" style="font-style: italic"; >Calculate</button>
+    
+    <p id="123"></p>
+    
+    
+    </body>
+   
+
+ </html>
