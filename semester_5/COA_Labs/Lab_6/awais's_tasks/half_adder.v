@@ -1,0 +1,7 @@
+module half_adder(A0,B0,C0,SUM);
+input A0,B0;
+output C0, SUM;
+
+xor xx(SUM, A0,B0);
+and aa(C0, A0,B0);
+endmodule
