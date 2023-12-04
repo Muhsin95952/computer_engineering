@@ -3,16 +3,16 @@ clc
 clear
 close all
 
-t = -5 :0.01: 5;
+t = 0 : 0.001 : 1;
 
-T = 5;
-f = 1/T;
+f = 10;
 
 x = sin(2*pi*f*t);
-
+subplot(2, 3, 1)
 plot(t, x);
 xlabel('Time (s)');
 ylabel('Aplitude');
 title('Sinusoi Signal');
-axis([-6, 6, -2, 2]);
+axis([0, 1, -1.5, 1.5]);
 grid on;
+

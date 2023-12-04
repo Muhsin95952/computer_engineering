@@ -159,6 +159,7 @@ ylabel('Amplitude');
 title('Sum of ALL Frequency domain Signal');
 
 %% Noise Signal
+t = 0 : 0.001 : 1;
 frequency = 100;
 noise = sin(2*pi*frequency*t);
 subplot(2, 2, 1);
