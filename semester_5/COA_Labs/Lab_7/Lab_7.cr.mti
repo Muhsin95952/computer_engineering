@@ -1,0 +1,31 @@
+{E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/MUX4x1_tb.v} {0 {vlog -work work -stats=none {E:\5th semester DCSE\Computer Organization and Architecture Lab\COA_Labs\MUX4x1_tb.v}
+** Warning: (vlog-14) Failed to open "E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_7.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX4x1_tb
+** Error: (vlog-13069) E:\5th semester DCSE\Computer Organization and Architecture Lab\COA_Labs\MUX4x1_tb.v(2): near "reg": syntax error, unexpected reg, expecting ';'.
+
+} {5.0 6.0} {}} {E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/MUX2x1.v} {2 {vlog -work work -stats=none {E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/MUX2x1.v}
+** Warning: (vlog-14) Failed to open "E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_7.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux2x1
+
+Top level modules:
+	mux2x1
+
+} {} {}} {E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/MUX2x1_tb.v} {2 {vlog -work work -stats=none {E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/MUX2x1_tb.v}
+** Warning: (vlog-14) Failed to open "E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_7.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stm_mux2x1
+
+Top level modules:
+	stm_mux2x1
+
+} {} {}} {E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/MUX4x1.v} {2 {vlog -work work -stats=none {E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/MUX4x1.v}
+** Warning: (vlog-14) Failed to open "E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_7.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux4x1
+
+Top level modules:
+	mux4x1
+
+} {} {}}

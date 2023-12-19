@@ -24,4 +24,4 @@ end:
 	syscall
 	
 .data
-msg: .asciiz"Addition of the two number is: "
+msg: .asciiz"Addition of the two number is:  "

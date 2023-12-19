@@ -1,0 +1,12 @@
+module decoder3x8_U_2x4(A, B, e, I);
+input A;
+input B;
+input e;
+output [0:7]I;
+wire ne;
+
+not n1(ne, e);
+decoder2x4 d1(A, B, e, I[0:3]);
+decoder2x4 d2(A, B, ne, I[4:7]);
+
+endmodule

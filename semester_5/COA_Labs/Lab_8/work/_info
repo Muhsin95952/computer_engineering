@@ -1,0 +1,203 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vdecod2x4
+!s110 1702489038
+!i10b 1
+!s100 1kScfe95`56oWE4^05dkW2
+Iah7[l9GG?od:@bEoZ7QPT1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8
+w1702489034
+Z2 8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder2x4.v
+Z3 FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder2x4.v
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1702489038.000000
+Z5 !s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder2x4.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder2x4.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vdecoder2x4
+Z9 !s110 1702880332
+!i10b 1
+!s100 1P9WmP@i2z:[7TC2fPiOg0
+I7d?MnVLJEa>D]EIRjV<910
+R0
+R1
+w1702490476
+R2
+R3
+L0 1
+R4
+r1
+!s85 0
+31
+Z10 !s108 1702880332.000000
+R5
+R6
+!i113 1
+R7
+R8
+vdecoder2x4_tb
+R9
+!i10b 1
+!s100 cO0OSKPPeo7UjLdiTHza11
+I_fYSR9kfcFTHUGh_<f_WY1
+R0
+R1
+w1702490828
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder2x4_tb.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder2x4_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R10
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder2x4_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder2x4_tb.v|
+!i113 1
+R7
+R8
+vdecoder3x8
+R9
+!i10b 1
+!s100 gB=zX]A7C]CYTdk9doD9N3
+IE=4Ol?;j<Mb0df39IcWlN2
+R0
+R1
+w1702491185
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder3x8.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder3x8.v
+L0 1
+R4
+r1
+!s85 0
+31
+R10
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder3x8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder3x8.v|
+!i113 1
+R7
+R8
+vdecoder3x8_tb
+R9
+!i10b 1
+!s100 [Lh1;X`L]h1:IGFcEn8ao0
+IzDJB=;Uz6hjf8b?Q[74?P0
+R0
+R1
+w1702491646
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder3x8_tb.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder3x8_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R10
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder3x8_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder3x8_tb.v|
+!i113 1
+R7
+R8
+vdecoder3x8_U_2x4
+R9
+!i10b 1
+!s100 k@4DHS9PAVDBF=jcZhno=1
+I5M0gK=WnBkn904gL08H<Q2
+R0
+R1
+w1702494946
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder3x8_U_2x4.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder3x8_U_2x4.v
+L0 1
+R4
+r1
+!s85 0
+31
+R10
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder3x8_U_2x4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder3x8_U_2x4.v|
+!i113 1
+R7
+R8
+ndecoder3x8_@u_2x4
+vdecoder3x8_U_2x4_tb
+R9
+!i10b 1
+!s100 Y_>S44AQk:_Dl^I4``>0N0
+IFE8AmKz^z2`6fNKbHeB4S2
+R0
+R1
+w1702494881
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder3x8_U_2x4_tb.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder3x8_U_2x4_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R10
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder3x8_U_2x4_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder3x8_U_2x4_tb.v|
+!i113 1
+R7
+R8
+ndecoder3x8_@u_2x4_tb
+vdecoder4x16_U_3x8
+R9
+!i10b 1
+!s100 5=UJDPke<n:co5Lg:aG6C1
+I>jY[hg:L@KZSA[7Fc[=N_2
+R0
+R1
+w1702880316
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder4x16_U_3x8.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder4x16_U_3x8.v
+L0 1
+R4
+r1
+!s85 0
+31
+R10
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder4x16_U_3x8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder4x16_U_3x8.v|
+!i113 1
+R7
+R8
+ndecoder4x16_@u_3x8
+vdecoder4x16_U_3x8_tb
+R9
+!i10b 1
+!s100 l44bzO0kET5^<LnlobKZg0
+I88kFT2^7]:ZdlB@kHT>h?2
+R0
+R1
+w1702880328
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder4x16_U_3x8_tb.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder4x16_U_3x8_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R10
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder4x16_U_3x8_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_8/decoder4x16_U_3x8_tb.v|
+!i113 1
+R7
+R8
+ndecoder4x16_@u_3x8_tb

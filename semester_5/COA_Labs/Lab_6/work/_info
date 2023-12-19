@@ -1,0 +1,159 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vFA_tb
+Z0 !s110 1699711806
+!i10b 1
+!s100 6Aj;WgTzN`KB8mgd1R^:d3
+INVXGfF8ICWKU27Bk<njK?3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6
+w1699710210
+Z3 8D:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/FA_tb.v
+Z4 FD:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/FA_tb.v
+L0 1
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1699711806.000000
+Z7 !s107 D:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/FA_tb.v|
+Z8 !s90 -reportprogress|300|-work|work|-stats=none|D:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/FA_tb.v|
+!i113 1
+Z9 o-work work
+Z10 tCvgOpt 0
+n@f@a_tb
+vfour_adder_tb
+R0
+!i10b 1
+!s100 Y_iYF[X<8_3[5OVG2IR=n0
+IXU4^XY>LBC=2C_QURPB8m1
+R1
+R2
+w1699711800
+8D:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/4bit_adder_tb.v
+FD:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/4bit_adder_tb.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/4bit_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/4bit_adder_tb.v|
+!i113 1
+R9
+R10
+vfour_bit
+R0
+!i10b 1
+!s100 T7FGeW@j5Y7YCNCi36;SE2
+IQ@0Z=UR_AJV`CRT8[<Q_E1
+R1
+R2
+w1699710995
+8D:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/4bit_adder.v
+FD:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/4bit_adder.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/4bit_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/4bit_adder.v|
+!i113 1
+R9
+R10
+vfull_adder
+R0
+!i10b 1
+!s100 SRf:k^3eg2K8oHUJ^Jh>F0
+I5OfIhm8KBg:QGo9h@`oLO1
+R1
+R2
+w1699710250
+8D:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/FA.v
+FD:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/FA.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/FA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/FA.v|
+!i113 1
+R9
+R10
+vhalf_adder
+!s110 1699711805
+!i10b 1
+!s100 eCJ0i7<G2>;czgf1]EknJ0
+I1gZm5lhnWgY3]YPOeD2ZO0
+R1
+R2
+w1699707891
+8D:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/half_adder.v
+FD:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/half_adder.v
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1699711805.000000
+!s107 D:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/half_adder.v|
+!i113 1
+R9
+R10
+vstm_adder
+R0
+!i10b 1
+!s100 Gi9nfH@`:[@2GgVZ8d@T52
+I3<zm;gM<zUc<jJF6RoOQR3
+R1
+R2
+w1699707556
+8D:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/half_adder_tb.v
+FD:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/half_adder_tb.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/half_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UNIVERSITY WORK/5TH Semester/Computer Organization and Architecture lab/lab 6/half_adder_tb.v|
+!i113 1
+R9
+R10
+vstm_FA
+!s110 1699709969
+!i10b 1
+!s100 T3N;Zb>M?l>o;]BdUSo:C3
+IbE`Xi@D:Da9gE5RF`cGI_3
+R1
+R2
+w1699709951
+R3
+R4
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1699709969.000000
+R7
+R8
+!i113 1
+R9
+R10
+nstm_@f@a
