@@ -1,0 +1,40 @@
+#include <unistd.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <sys/wait.h>
+
+int main(int argc, char *argv[])
+{
+    int fd1 = open("f1.txt", O_RDONLY);
+    if(fd1 == -1){
+        perror("Failed to open the file");
+        return -1;
+        }
+
+    int fd2 = open("f2.txt", O_WRONLY|O_CREATE, S_IRUSR|S_IWUSR|S_IWGRP);
+    if(fd2 == -1){
+        perror("Failed to open the file");
+        return -1;
+        }
+    
+    char *buff[100];
+
+    int rb = read(fd1, buff, 100);
+    if(rb == -1){
+        perror("Failed to open the file");
+        return -1;
+        }
+
+    int bw = write(fd2, buff, rb);
+    if(bw == -1){
+        perror("Failed to open the file");
+        return -1;
+        }
+
+    int u = unlink("f1.txt");
+    if(u == -1){
+        perror("Failed to open the file");
+        return -1;
+        }
+    return 0;
+}
