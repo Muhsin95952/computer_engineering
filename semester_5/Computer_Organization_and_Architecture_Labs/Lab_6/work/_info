@@ -1,0 +1,290 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vFA
+!s110 1699687013
+!i10b 1
+!s100 [c`V5Lc;:1CRFQcM2DV^83
+InP5_Og;k]j[?k4FTz0G?l1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dE:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6
+w1699686972
+8E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/FA.v
+FE:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/FA.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1699687012.000000
+!s107 E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/FA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/FA.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@f@a
+vFA_test
+Z5 !s110 1699687898
+!i10b 1
+!s100 8fiMWN6_fcF1k_2A1iBIh0
+IOCADOIhBOn5K]dOgU;jeB2
+R0
+R1
+w1699685894
+8E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/full_adder_tb.v
+FE:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/full_adder_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z6 !s108 1699687898.000000
+!s107 E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/full_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/full_adder_tb.v|
+!i113 1
+R3
+R4
+n@f@a_test
+vfour_adder_tb
+R5
+!i10b 1
+!s100 Y_iYF[X<8_3[5OVG2IR=n0
+IkCN:l?;YQXIR8f:R:e8cV3
+R0
+R1
+w1699711800
+8E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/four_bit_tb.v
+FE:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/four_bit_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/four_bit_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/four_bit_tb.v|
+!i113 1
+R3
+R4
+vfour_bit
+R5
+!i10b 1
+!s100 k@_:XXO2AOTbS=eaU_dj92
+IM]_=]S[Y@fYHK84L:zB0_1
+R0
+R1
+w1699684108
+8E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/four_bit.v
+FE:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/four_bit.v
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/four_bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/four_bit.v|
+!i113 1
+R3
+R4
+vfull_adder
+R5
+!i10b 1
+!s100 >k^4D4SUHnoC0L;E0CgHG1
+I3fXNj46LL=?0Kb]LU>?dW3
+R0
+R1
+w1699687893
+8E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/full_adder.v
+FE:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/full_adder.v
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/full_adder.v|
+!i113 1
+R3
+R4
+vfull_adder_tb
+!s110 1699685837
+!i10b 1
+!s100 n>1T0CSAiA4Q3=DhbeejW3
+IdnEe0WoGf>=R>CEWF2OUb1
+R0
+R1
+w1699684218
+Z7 8E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/FA_test.v
+Z8 FE:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/FA_test.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1699685837.000000
+Z9 !s107 E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/FA_test.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/FA_test.v|
+!i113 1
+R3
+R4
+vHA
+Z11 !s110 1699686084
+!i10b 1
+!s100 ]PH^]RU_K<JkG0hXkA=Yn3
+IHM[CBGk?kdDWnTA8_C9F62
+R0
+R1
+w1699417757
+Z12 8E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/half_adder.v
+Z13 FE:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/half_adder.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z14 !s108 1699686084.000000
+!s107 E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/half_adder.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/half_adder.v|
+!i113 1
+R3
+R4
+n@h@a
+vHA_tb
+R11
+!i10b 1
+!s100 VE@4UoEmH?WLc1`ni=9ag3
+IW7Y]oBkiLk[b;4];laFbc1
+R0
+R1
+w1699685814
+Z16 8E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/half_adder_tb.v
+Z17 FE:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/half_adder_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+R14
+Z18 !s107 E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/half_adder_tb.v|
+Z19 !s90 -reportprogress|300|-work|work|-stats=none|E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/half_adder_tb.v|
+!i113 1
+R3
+R4
+n@h@a_tb
+vhalf_adder
+R5
+!i10b 1
+!s100 JjezVN_^=bP4LGbdO7YXn2
+I_YA=b<SMkR51[2I3]QT;e2
+R0
+R1
+w1699686950
+R12
+R13
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/half_adder.v|
+R15
+!i113 1
+R3
+R4
+vhalf_adder_tb
+R5
+!i10b 1
+!s100 >gNkkFFNaD<P49FaUK:Lc2
+I;oPV_@>i@6FJ=XZg`Zm>M0
+R0
+R1
+w1699687008
+R16
+R17
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+R18
+R19
+!i113 1
+R3
+R4
+vtest_FA
+!s110 1699684112
+!i10b 1
+!s100 jFYb8``14k[AkjT]5T@@:0
+Ic0=AKI6[3mX7gDB@z>1kb1
+R0
+R1
+w1699423697
+R7
+R8
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1699684112.000000
+R9
+R10
+!i113 1
+R3
+R4
+ntest_@f@a
+vtest_HA
+!s110 1699684948
+!i10b 1
+!s100 mBl87D]_iWPM]JE2lL><`0
+ICYcWI@l4MkU7a>^n8;io<3
+R0
+R1
+w1699684941
+R16
+R17
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1699684947.000000
+R18
+R19
+!i113 1
+R3
+R4
+ntest_@h@a
+vtest_TB
+!s110 1699684343
+!i10b 1
+!s100 ELFDBnFn2zdDc2fJ30hdm1
+ISNeM]kCAc>2eRC33F[3BL1
+R0
+R1
+w1699419552
+R16
+R17
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1699684343.000000
+R18
+R19
+!i113 1
+R3
+R4
+ntest_@t@b

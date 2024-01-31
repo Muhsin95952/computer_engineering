@@ -1,0 +1,250 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vCounter_4_bit
+Z0 !s110 1706722677
+!i10b 1
+!s100 0ImJ^7kQCF3;jj?BFQezU0
+IoHQ:UBQFEP=Q[0:VASU9B3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10
+w1706721451
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/Counter_4_bit.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/Counter_4_bit.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1706722677.000000
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/Counter_4_bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/Counter_4_bit.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@counter_4_bit
+vCounter_8_bit
+R0
+!i10b 1
+!s100 bmC1a7@0<VVAcHCJKOoW00
+I]Li@fn>FPlEQ5;<ZVCRbg3
+R1
+R2
+Z7 w1706675383
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/Counter_8_bit.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/Counter_8_bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/Counter_8_bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/Counter_8_bit.v|
+!i113 1
+R5
+R6
+n@counter_8_bit
+vram_16x8
+R0
+!i10b 1
+!s100 ]d[m61PA:::2@d>?Q7]0W2
+IEW=G91]eWa@dc;Pl7n>K62
+R1
+R2
+w1706682499
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10/16x8_RAM.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10/16x8_RAM.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1706722676.000000
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10/16x8_RAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10/16x8_RAM.v|
+!i113 1
+R5
+R6
+vT_Controlled_Async_Counter_4_bit
+R0
+!i10b 1
+!s100 ?l<IWTgQZRo_1]VSb6SQ<3
+IlKNaY9;RcTS[3^QGlNPn72
+R1
+R2
+R7
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/T_Controlled_Async_Counter_4_bit.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/T_Controlled_Async_Counter_4_bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/T_Controlled_Async_Counter_4_bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/T_Controlled_Async_Counter_4_bit.v|
+!i113 1
+R5
+R6
+n@t_@controlled_@async_@counter_4_bit
+vT_Flip_Flop
+R0
+!i10b 1
+!s100 RmBzzo5Ok_EAfCe`oB_Tm3
+I7LE0hFaP327iRGWZH[Fef3
+R1
+R2
+R7
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/T_Flip_Flop.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/T_Flip_Flop.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/T_Flip_Flop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/T_Flip_Flop.v|
+!i113 1
+R5
+R6
+n@t_@flip_@flop
+vT_Uncontrolled_Async_Counter_4_bit
+R0
+!i10b 1
+!s100 zLG>L4KS2R1fQYRYJUa`11
+IZ7OzU;Oi;[SmgHJSOENP;1
+R1
+R2
+R7
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/T_Uncontrolled_Async_Counter_4_bit.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/T_Uncontrolled_Async_Counter_4_bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/T_Uncontrolled_Async_Counter_4_bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/T_Uncontrolled_Async_Counter_4_bit.v|
+!i113 1
+R5
+R6
+n@t_@uncontrolled_@async_@counter_4_bit
+vtb_ram_16x8
+R0
+!i10b 1
+!s100 MBN0z?kE1VmQG7DLn=MEh3
+ISF@FJUZf_Af=m1@BnF8;P1
+R1
+R2
+w1706678144
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10/16x8_RAM_tb.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10/16x8_RAM_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10/16x8_RAM_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10/16x8_RAM_tb.v|
+!i113 1
+R5
+R6
+vtest_Counter_4_bit
+R0
+!i10b 1
+!s100 9NDQH5z1zB1Fo3h?VHZ0B0
+ImdVbI[W4Cf1:lTW`QE5]m1
+R1
+R2
+R7
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_Counter_4_bit.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_Counter_4_bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_Counter_4_bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_Counter_4_bit.v|
+!i113 1
+R5
+R6
+ntest_@counter_4_bit
+vtest_Counter_8_bit
+R0
+!i10b 1
+!s100 CHjnLj=XkLQ<1UM?5jIzF0
+IB6JMbVj>UhN@`3gbPJoXG0
+R1
+R2
+R7
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_Counter_8_bit.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_Counter_8_bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_Counter_8_bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_Counter_8_bit.v|
+!i113 1
+R5
+R6
+ntest_@counter_8_bit
+vtest_T_Controlled_Async_Counter_4_bit
+R0
+!i10b 1
+!s100 KCY=2j2nf5FXkfbNIfe_g0
+I>d1NI4=M2lC:nNfL@B@cW3
+R1
+R2
+R7
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_T_Controlled_Async_Counter_4_bit.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_T_Controlled_Async_Counter_4_bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_T_Controlled_Async_Counter_4_bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_T_Controlled_Async_Counter_4_bit.v|
+!i113 1
+R5
+R6
+ntest_@t_@controlled_@async_@counter_4_bit
+vtest_T_Uncontrolled_Async_Counter_4_bit
+R0
+!i10b 1
+!s100 dFK0iNk[KmUha[zEMF9Sb3
+IS<kAh1:Y3=Pf9>43VzbZB3
+R1
+R2
+R7
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_T_Uncontrolled_Async_Counter_4_bit.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_T_Uncontrolled_Async_Counter_4_bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_T_Uncontrolled_Async_Counter_4_bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_T_Uncontrolled_Async_Counter_4_bit.v|
+!i113 1
+R5
+R6
+ntest_@t_@uncontrolled_@async_@counter_4_bit

@@ -1,0 +1,49 @@
+{E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/task4/4bit_adder_tb.v} {2 {vlog -work work -stats=none {E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/task4/4bit_adder_tb.v}
+** Warning: (vlog-14) Failed to open "E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/task2.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module four_adder_tb
+
+Top level modules:
+	four_adder_tb
+
+} {} {}} {E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/half_adder.v} {2 {vlog -work work -stats=none {E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/half_adder.v}
+** Warning: (vlog-14) Failed to open "E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/task2.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module half_adder
+
+Top level modules:
+	half_adder
+
+} {} {}} {E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/FA_test.v} {2 {vlog -work work -stats=none {E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/FA_test.v}
+** Warning: (vlog-14) Failed to open "E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/task2.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FA_test
+
+Top level modules:
+	FA_test
+
+} {} {}} {E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/half_adder_tb.v} {2 {vlog -work work -stats=none {E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/half_adder_tb.v}
+** Warning: (vlog-14) Failed to open "E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/task2.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module half_adder_tb
+
+Top level modules:
+	half_adder_tb
+
+} {} {}} {E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/FA.v} {2 {vlog -work work -stats=none {E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/FA.v}
+** Warning: (vlog-14) Failed to open "E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/task2.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} {E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/task4/4bit_adder.v} {2 {vlog -work work -stats=none {E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/task4/4bit_adder.v}
+** Warning: (vlog-14) Failed to open "E:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_6/task2.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module four_bit
+
+Top level modules:
+	four_bit
+
+} {} {}}

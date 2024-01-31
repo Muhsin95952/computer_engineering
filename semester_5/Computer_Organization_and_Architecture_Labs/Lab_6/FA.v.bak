@@ -1,0 +1,11 @@
+module FA(A, B, C, sum, cout);
+
+input A, B, C;
+output sum, cout;
+wire C1, S, C2;
+HA x3(S, C1, A, B);
+HA x4(sum, C2, S, C);
+or orr(cout, C1, C2);
+
+endmodule
+

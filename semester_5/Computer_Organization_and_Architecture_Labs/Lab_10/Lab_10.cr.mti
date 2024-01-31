@@ -1,0 +1,101 @@
+{D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/16x8_RAM.v} {1 {vlog -work work -stats=none {D:\5th semester DCSE\Computer Organization and Architecture Lab\COA_Labs\16x8_RAM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/4bit_unco_t_flipflop_upcounter_tb.v} {1 {vlog -work work -stats=none {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/4bit_unco_t_flipflop_upcounter_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/T_Controlled_Async_Counter_4_bit.v} {1 {vlog -work work -stats=none {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/T_Controlled_Async_Counter_4_bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module T_Controlled_Async_Counter_4_bit
+
+Top level modules:
+	T_Controlled_Async_Counter_4_bit
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/4bit_counter_tb.v} {1 {vlog -work work -stats=none {D:\5th semester DCSE\Computer Organization and Architecture Lab\COA_Labs\4bit_counter_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_Counter_4_bit.v} {1 {vlog -work work -stats=none {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_Counter_4_bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module test_Counter_4_bit
+
+Top level modules:
+	test_Counter_4_bit
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_T_Uncontrolled_Async_Counter_4_bit.v} {1 {vlog -work work -stats=none {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_T_Uncontrolled_Async_Counter_4_bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module test_T_Uncontrolled_Async_Counter_4_bit
+
+Top level modules:
+	test_T_Uncontrolled_Async_Counter_4_bit
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10/16x8_RAM_tb.v} {1 {vlog -work work -stats=none {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10/16x8_RAM_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_ram_16x8
+
+Top level modules:
+	tb_ram_16x8
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/Counter_4_bit.v} {1 {vlog -work work -stats=none {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/Counter_4_bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Counter_4_bit
+
+Top level modules:
+	Counter_4_bit
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/4bit_counter.v} {1 {vlog -work work -stats=none {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/4bit_counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/8bit_counter_tb.v} {1 {vlog -work work -stats=none {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/8bit_counter_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10/16x8_RAM.v} {1 {vlog -work work -stats=none {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10/16x8_RAM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ram_16x8
+
+Top level modules:
+	ram_16x8
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_Counter_8_bit.v} {1 {vlog -work work -stats=none {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_Counter_8_bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module test_Counter_8_bit
+
+Top level modules:
+	test_Counter_8_bit
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/4bit_cont_t_flipflop_upcounter_tb.v} {1 {vlog -work work -stats=none {D:\5th semester DCSE\Computer Organization and Architecture Lab\COA_Labs\4bit_cont_t_flipflop_upcounter_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_T_Controlled_Async_Counter_4_bit.v} {1 {vlog -work work -stats=none {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/test_T_Controlled_Async_Counter_4_bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module test_T_Controlled_Async_Counter_4_bit
+
+Top level modules:
+	test_T_Controlled_Async_Counter_4_bit
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/8bit_counter.v} {1 {vlog -work work -stats=none {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/8bit_counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/T_Flip_Flop.v} {1 {vlog -work work -stats=none {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/T_Flip_Flop.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module T_Flip_Flop
+
+Top level modules:
+	T_Flip_Flop
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/4bit_cont_t_flipflop_upcounter.v} {1 {vlog -work work -stats=none {D:\5th semester DCSE\Computer Organization and Architecture Lab\COA_Labs\4bit_cont_t_flipflop_upcounter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/4bit_unco_t_flipflop_upcounter.v} {1 {vlog -work work -stats=none {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/4bit_unco_t_flipflop_upcounter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/T_Uncontrolled_Async_Counter_4_bit.v} {1 {vlog -work work -stats=none {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_10_aimal/T_Uncontrolled_Async_Counter_4_bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module T_Uncontrolled_Async_Counter_4_bit
+
+Top level modules:
+	T_Uncontrolled_Async_Counter_4_bit
+
+} {} {}} {D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/16x8_RAM_tb.v} {1 {vlog -work work -stats=none {D:\5th semester DCSE\Computer Organization and Architecture Lab\COA_Labs\16x8_RAM_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}}

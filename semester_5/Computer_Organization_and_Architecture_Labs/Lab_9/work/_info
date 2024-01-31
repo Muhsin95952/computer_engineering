@@ -1,0 +1,230 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/Lab_9
+vD_flipflop
+Z0 !s110 1703828652
+!i10b 1
+!s100 L>ASOzDQI:RH[5oH_9XkP1
+I@Le]PbFeBOAPoha8kOnCQ0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder
+w1703655052
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/D_flipflop.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/D_flipflop.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1703828652.000000
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/D_flipflop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/D_flipflop.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@d_flipflop
+vD_flipflop_tb
+R0
+!i10b 1
+!s100 Y4Aa1cGNKAMMc>;m4YIQN1
+I:D0BP0GAPNhFH;eaZfVL61
+R1
+R2
+w1703655307
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/D_flipflop_tb.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/D_flipflop_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/D_flipflop_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/D_flipflop_tb.v|
+!i113 1
+R5
+R6
+n@d_flipflop_tb
+vJK_flipflop
+R0
+!i10b 1
+!s100 :8G>nj5e07?koiVEzdR380
+I9M=8QO]<_=@99>7IA^CX52
+R1
+R2
+w1703098489
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/JK_flipflop.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/JK_flipflop.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/JK_flipflop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/JK_flipflop.v|
+!i113 1
+R5
+R6
+n@j@k_flipflop
+vJK_flipflop_tb
+R0
+!i10b 1
+!s100 WT_Mc6WYEHDWUHS^<XEc10
+IaY^1:bA[`9cJh<TQ`e?CC3
+R1
+R2
+w1703097915
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/JK_flipflop_tb.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/JK_flipflop_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/JK_flipflop_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/JK_flipflop_tb.v|
+!i113 1
+R5
+R6
+n@j@k_flipflop_tb
+vSR_flipflop
+R0
+!i10b 1
+!s100 kLJgFj91=OJczKT[h_U]W3
+Id?OkiZFGo5K?T>]Sb=YFK3
+R1
+R2
+w1703098507
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/SR_flipflop.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/SR_flipflop.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/SR_flipflop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/SR_flipflop.v|
+!i113 1
+R5
+R6
+n@s@r_flipflop
+vSR_flipflop_tb
+R0
+!i10b 1
+!s100 OL6h3iYVb>=B7_g92SCm;3
+I_E5n86j><@XciBHKH08R_1
+R1
+R2
+w1703097704
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/SR_flipflop_tb.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/SR_flipflop_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/SR_flipflop_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/SR_flipflop_tb.v|
+!i113 1
+R5
+R6
+n@s@r_flipflop_tb
+vSR_latch
+R0
+!i10b 1
+!s100 ^dZ307[i5eGI21a3AObRV3
+I2Dg2`YDh]W`jgdU_SicXC3
+R1
+R2
+w1703094894
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/SR_latch.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/SR_latch.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/SR_latch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/SR_latch.v|
+!i113 1
+R5
+R6
+n@s@r_latch
+vSR_latch_tb
+R0
+!i10b 1
+!s100 VNc1Z_GBRIN6L=?80TO882
+I5FkNR>M9<Ud3L32@9mH^:1
+R1
+R2
+w1703095662
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/SR_latch_tb.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/SR_latch_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/SR_latch_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/SR_latch_tb.v|
+!i113 1
+R5
+R6
+n@s@r_latch_tb
+vT_flipflop
+R0
+!i10b 1
+!s100 UkVKWcKLTFm[>H9LCXzLj3
+IeDCYoEAb:X]Aenk9JK8PW3
+R1
+R2
+w1703658766
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/T_flipflop.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/T_flipflop.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/T_flipflop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/T_flipflop.v|
+!i113 1
+R5
+R6
+n@t_flipflop
+vT_flipflop_tb
+R0
+!i10b 1
+!s100 ;L69[4z7Vc0[9kh@K6SZ61
+IN_JRl^=>44hNXR0C1V:FD0
+R1
+R2
+w1703658720
+8D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/T_flipflop_tb.v
+FD:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/T_flipflop_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/T_flipflop_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th semester DCSE/Computer Organization and Architecture Lab/COA_Labs/New folder/T_flipflop_tb.v|
+!i113 1
+R5
+R6
+n@t_flipflop_tb
