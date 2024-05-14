@@ -1,0 +1,41 @@
+A51 MACRO ASSEMBLER  LAB_1_TASK_1                                                         02/20/2024 10:22:44 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.2.7.0
+OBJECT MODULE PLACED IN .\Objects\Lab_1_task_1.obj
+ASSEMBLER INVOKED BY: C:\Keil_v5\C51\BIN\A51.EXE Lab_1_task_1.a51 SET(SMALL) DEBUG PRINT(.\Listings\Lab_1_task_1.lst) OB
+                      JECT(.\Objects\Lab_1_task_1.obj) EP
+
+LOC  OBJ            LINE     SOURCE
+
+0000                   1     ORG 00H
+0000 758001            2             MOV P0,#01H
+0003 110A              3             ACALL DELAY
+0005 758002            4             MOV P0,#02H
+0008 110A              5             ACALL DELAY
+000A                   6             DELAY:
+000A 780A              7                     MOV R0,#10
+000C                   8                     LOOP:
+000C D8FE              9                             DJNZ R0,LOOP
+000E 7905             10                             MOV R1,#5
+0010 D9F8             11                             DJNZ R1,DELAY
+0012 22               12             RET
+                      13     END
+                                             
+A51 MACRO ASSEMBLER  LAB_1_TASK_1                                                         02/20/2024 10:22:44 PAGE     2
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+DELAY. . . . . . .  C ADDR   000AH   A   
+LOOP . . . . . . .  C ADDR   000CH   A   
+P0 . . . . . . . .  D ADDR   0080H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)

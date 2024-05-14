@@ -1,0 +1,526 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vandgate
+Z0 !s110 1708875476
+!i10b 1
+!s100 zF<n<[V@Tz3WhgS1=;ON31
+IfH]=CR_McE4gEb1kI_QdY3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01
+w1707898977
+8D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/and.v
+FD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/and.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1708875476.000000
+!s107 D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/and.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/and.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vandgate_tb
+R0
+!i10b 1
+!s100 Z;lm5DRGEI3Ah<3^a[JX<2
+IBXHzz>zO;RPTlIPFKKi3_2
+R1
+R2
+w1707901069
+8D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/and_tb.v
+FD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/and_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/and_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/and_tb.v|
+!i113 1
+R5
+R6
+vbuffer
+R0
+!i10b 1
+!s100 LKN@eA^SjF1[M0d5J1[_K1
+I7Di7MXVLfWZRz9i1fzI5f3
+R1
+R2
+w1707898407
+8D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/buffer.v
+FD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/buffer.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/buffer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/buffer.v|
+!i113 1
+R5
+R6
+vbuffer_tb
+R0
+!i10b 1
+!s100 bl5GRK:fFX^6VfA>9Q2Az2
+Id1d2<TNgEn27R5;hI=z9c1
+R1
+R2
+w1707898584
+8D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/buffer_tb.v
+FD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/buffer_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/buffer_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/buffer_tb.v|
+!i113 1
+R5
+R6
+vcarry
+R0
+!i10b 1
+!s100 =WiGR3j:=UQEca3Wij7?f1
+IKh6=n6nZ_21dGjJMe2P961
+R1
+R2
+w1708502458
+8D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/carry.v
+FD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/carry.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/carry.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/carry.v|
+!i113 1
+R5
+R6
+vfullAdder
+Z7 !s110 1708875477
+!i10b 1
+!s100 KCc1iJnMOc2:;=dgeAYKU0
+IO?T[>SBBV@OA63LINC0hR2
+R1
+R2
+w1708503287
+8D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_02\fullAdder.v
+FD:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_02\fullAdder.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1708875477.000000
+!s107 D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_02\fullAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_02\fullAdder.v|
+!i113 1
+R5
+R6
+nfull@adder
+vfullAdder_lvl
+R7
+!i10b 1
+!s100 b[YzGV=VF=Bf@Nz^ZB;km2
+IF8[C0EB;5Mc=o2Z^QDGZA1
+R1
+R2
+w1708875279
+8D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_02\fullAdder_lvl.v
+FD:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_02\fullAdder_lvl.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_02\fullAdder_lvl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_02\fullAdder_lvl.v|
+!i113 1
+R5
+R6
+nfull@adder_lvl
+vfullAdder_lvl_tb
+R7
+!i10b 1
+!s100 iC3f]iZ<Q`931>TKWDciZ2
+I15H2<M>daVWz27X:nhfiN1
+R1
+R2
+w1708875470
+8D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_01\fullAdder_lvl_tb.v
+FD:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_01\fullAdder_lvl_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_01\fullAdder_lvl_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_01\fullAdder_lvl_tb.v|
+!i113 1
+R5
+R6
+nfull@adder_lvl_tb
+vfullAdder_using_gate_level
+R7
+!i10b 1
+!s100 [9Ig[lDAL]^z_^3f@da`N3
+I[<f2gU`a0MMkTn1CB8>Z21
+R1
+R2
+w1708873924
+8D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_01\fullAdder_U_gatesLevel.v
+FD:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_01\fullAdder_U_gatesLevel.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_01\fullAdder_U_gatesLevel.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_01\fullAdder_U_gatesLevel.v|
+!i113 1
+R5
+R6
+nfull@adder_using_gate_level
+vfullAdder_using_gate_level_tb
+R7
+!i10b 1
+!s100 `N9GiIOT^G3X5YOGATz[90
+IYDAKBWGMaHB29liRRWBf[2
+R1
+R2
+w1708874369
+8D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_01\fullAdder_U_gateLevel_tb.v
+FD:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_01\fullAdder_U_gateLevel_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_01\fullAdder_U_gateLevel_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_01\fullAdder_U_gateLevel_tb.v|
+!i113 1
+R5
+R6
+nfull@adder_using_gate_level_tb
+vhalfAdder
+R7
+!i10b 1
+!s100 2kkZGDBk_3Ajinnzz16bN2
+Ia4D`<o8znmH5Dh4zWfC6g0
+R1
+R2
+w1708502660
+8D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/halfAdder.v
+FD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/halfAdder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/halfAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/halfAdder.v|
+!i113 1
+R5
+R6
+nhalf@adder
+vnot_gate
+R0
+!i10b 1
+!s100 boaRH3BgHh2Jhz4=m80>[1
+I42;[I>f_WRXkf?NV2eJ7S1
+R1
+R2
+w1707898708
+8D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/not.v
+FD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/not.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/not.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/not.v|
+!i113 1
+R5
+R6
+vnot_gate_tb
+R0
+!i10b 1
+!s100 l=>Ohc<ha;4mh<[EkEBoJ2
+I3]0WK2n>Gk]ZbImgcf=kg1
+R1
+R2
+w1707898754
+8D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/not_tb.v
+FD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/not_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/not_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/not_tb.v|
+!i113 1
+R5
+R6
+vOR_gate
+R0
+!i10b 1
+!s100 >N77hJ=lHBofELg95nB=W2
+IaH7OJ;LdF::W=UXhDfMB:1
+R1
+R2
+w1707899572
+8D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/OR_using_NAND.v
+FD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/OR_using_NAND.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/OR_using_NAND.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/OR_using_NAND.v|
+!i113 1
+R5
+R6
+n@o@r_gate
+vOR_gate_tb
+R0
+!i10b 1
+!s100 PQD>m]4LZ[4ILcPFCcLS73
+I^ZiEBV^Z8`A2PYkDUhFa<1
+R1
+R2
+w1707901046
+8D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/OR_using_NAND_tb.v
+FD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/OR_using_NAND_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/OR_using_NAND_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/OR_using_NAND_tb.v|
+!i113 1
+R5
+R6
+n@o@r_gate_tb
+vquiz
+R0
+!i10b 1
+!s100 MCZW`^ODNkGB0P^OCiXQh1
+Ij>cOVSnS7iO?XPkTEc`R63
+R1
+R2
+w1708108695
+8D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/quiz.v
+FD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/quiz.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/quiz.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/quiz.v|
+!i113 1
+R5
+R6
+vquiz_tb
+R0
+!i10b 1
+!s100 ScJ2WNOX7JLh?Rn5o29f43
+I77Yl[=S9:n4TJ>W3>JD;V2
+R1
+R2
+w1707901917
+8D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/quiz_tb.v
+FD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/quiz_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/quiz_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/quiz_tb.v|
+!i113 1
+R5
+R6
+vrippleCarryAdder
+R7
+!i10b 1
+!s100 cm_?3PjiK_B`:[=cL5PM_0
+I?jQKoElWfJ2EefEGdW[Wa2
+R1
+R2
+w1708874696
+8D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_02\rippleCarryAdder.v
+FD:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_02\rippleCarryAdder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_02\rippleCarryAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_02\rippleCarryAdder.v|
+!i113 1
+R5
+R6
+nripple@carry@adder
+vrippleCarryAdder_lvl
+R7
+!i10b 1
+!s100 aS5_K=fGzHckn2U[Nb>iM3
+IonbNmVnFck5agBf^2UXkI0
+R1
+R2
+w1708508402
+8D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/rippleCarryAdder_lvl.v
+FD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/rippleCarryAdder_lvl.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/rippleCarryAdder_lvl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/rippleCarryAdder_lvl.v|
+!i113 1
+R5
+R6
+nripple@carry@adder_lvl
+vrippleCarryAdder_lvl_tb
+R7
+!i10b 1
+!s100 OGDL4JI17i;m`YL9j[AO<0
+IVFGDfc1NU;o;@3eOHBoZ91
+R1
+R2
+w1708508399
+8D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/rippleCarry Adder_lvl_tb.v
+FD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/rippleCarry Adder_lvl_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/rippleCarry Adder_lvl_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/rippleCarry Adder_lvl_tb.v|
+!i113 1
+R5
+R6
+nripple@carry@adder_lvl_tb
+vrippleCarryAdder_tb
+R7
+!i10b 1
+!s100 b?1T@DTW9?=FbGQ6cinDH3
+IfXc<VT5oEb8NSJ_ChhTCf2
+R1
+R2
+w1708874824
+8D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_02\ripplecarryAdder_tb.v
+FD:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_02\ripplecarryAdder_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_02\ripplecarryAdder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\Lab_02\ripplecarryAdder_tb.v|
+!i113 1
+R5
+R6
+nripple@carry@adder_tb
+vsum
+R7
+!i10b 1
+!s100 6VkXLMS^_=Cg8fgLQ[UL23
+IGi1:^2MYkmFOgdYm^5oPk0
+R1
+R2
+w1708502476
+8D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/sum.v
+FD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/sum.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/sum.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_02/sum.v|
+!i113 1
+R5
+R6
+vtask_4
+R0
+!i10b 1
+!s100 aOm7k7>o^`WN88V1JF;0G0
+I0]=`0QKMHT227oaPB3P042
+R1
+R2
+w1708626656
+8D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/Lab_1_task_4.v
+FD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/Lab_1_task_4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/Lab_1_task_4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/Lab_1_task_4.v|
+!i113 1
+R5
+R6
+vtask_4_tb
+R0
+!i10b 1
+!s100 [f:XGeIS=6cKa;R:NmdXV0
+IT^g]`j9UiaH7GKb`X<bAI2
+R1
+R2
+w1708627178
+8D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/Lab_1_task_4_tb.v
+FD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/Lab_1_task_4_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/Lab_1_task_4_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01/Lab_1_task_4_tb.v|
+!i113 1
+R5
+R6

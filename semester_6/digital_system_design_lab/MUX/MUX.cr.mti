@@ -1,37 +1,16 @@
-{D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/MUX/MUX8x1_using_4x1.v} {1 {vlog -work work -stats=none {D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX8x1_using_4x1.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module MUX8x1_using_4x1
-
-Top level modules:
-	MUX8x1_using_4x1
-
-} {} {}} {D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/MUX/MUX4x1_tb.v} {1 {vlog -work work -stats=none {D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1_tb.v}
+{D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/MUX/MUX4x1_tb.v} {1 {vlog -work work -stats=none {D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1_tb.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module MUX4x1_tb
 
 Top level modules:
 	MUX4x1_tb
 
-} {} {}} {D:/6th semester DCSE/Digital System Design/MUX/m2to1.v} {1 {vlog -work work -stats=none {D:/6th semester DCSE/Digital System Design/MUX/m2to1.v}
+} {} {}} {D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/MUX/MUX8x1_using_4x1.v} {1 {vlog -work work -stats=none {D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX8x1_using_4x1.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module m2to1
+-- Compiling module MUX8x1_using_4x1
 
 Top level modules:
-	m2to1
-
-} {} {}} {D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/MUX/MUX8x1_using_4x1_tb.v} {1 {vlog -work work -stats=none {D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX8x1_using_4x1_tb.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module MUX8x1_using_4x1_tb
-
-Top level modules:
-	MUX8x1_using_4x1_tb
-
-} {} {}} {D:/6th semester DCSE/Digital System Design/MUX/m4to1_tst.v} {1 {vlog -work work -stats=none {D:\6th semester DCSE\Digital System Design\MUX\m4to1_tst.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module m4to1_tst
-
-Top level modules:
-	m4to1_tst
+	MUX8x1_using_4x1
 
 } {} {}} {D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/MUX/MUX2x1.v} {1 {vlog -work work -stats=none {D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX2x1.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
@@ -40,12 +19,19 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	MUX2x1
 
-} {} {}} {D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/MUX/MUX4x1_using_2x1.v} {1 {vlog -work work -stats=none {D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1_using_2x1.v}
+} {} {}} {D:/6th semester DCSE/Digital System Design/MUX/m4to1_tst.v} {1 {vlog -work work -stats=none {D:\6th semester DCSE\Digital System Design\MUX\m4to1_tst.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module MUX4x1_using_2x1
+-- Compiling module m4to1_tst
 
 Top level modules:
-	MUX4x1_using_2x1
+	m4to1_tst
+
+} {} {}} {D:/6th semester DCSE/Digital System Design/MUX/m2to1.v} {1 {vlog -work work -stats=none {D:/6th semester DCSE/Digital System Design/MUX/m2to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module m2to1
+
+Top level modules:
+	m2to1
 
 } {} {}} {D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/MUX/MUX2x1_tb.v} {1 {vlog -work work -stats=none {D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX2x1_tb.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
@@ -54,12 +40,19 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	MUX2x1_tb
 
-} {} {}} {D:/6th semester DCSE/Digital System Design/MUX/m4to1.v} {1 {vlog -work work -stats=none {D:/6th semester DCSE/Digital System Design/MUX/m4to1.v}
+} {} {}} {D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/MUX/MUX4x1_using_2x1.v} {1 {vlog -work work -stats=none {D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1_using_2x1.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module m4to1
+-- Compiling module MUX4x1_using_2x1
 
 Top level modules:
-	m4to1
+	MUX4x1_using_2x1
+
+} {} {}} {D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/MUX/MUX4x1.v} {1 {vlog -work work -stats=none {D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX4x1
+
+Top level modules:
+	MUX4x1
 
 } {} {}} {D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/MUX/MUX4x1_using_2x1_tb.v} {1 {vlog -work work -stats=none {D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1_using_2x1_tb.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
@@ -68,11 +61,11 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	MUX4x1_using_2x1_tb
 
-} {} {}} {D:/6th semester DCSE/Digital System Design Lab/Lab_tasks/MUX/MUX4x1.v} {1 {vlog -work work -stats=none {D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1.v}
+} {} {}} {D:/6th semester DCSE/Digital System Design/MUX/m4to1.v} {1 {vlog -work work -stats=none {D:/6th semester DCSE/Digital System Design/MUX/m4to1.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module MUX4x1
+-- Compiling module m4to1
 
 Top level modules:
-	MUX4x1
+	m4to1
 
 } {} {}}

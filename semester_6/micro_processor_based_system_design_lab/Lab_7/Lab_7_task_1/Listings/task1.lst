@@ -1,0 +1,55 @@
+C51 COMPILER V9.60.7.0   TASK1                                                             04/16/2024 10:14:37 PAGE 1   
+
+
+C51 COMPILER V9.60.7.0, COMPILATION OF MODULE TASK1
+OBJECT MODULE PLACED IN .\Objects\task1.obj
+COMPILER INVOKED BY: C:\Keil_v5\C51\BIN\C51.EXE task1.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\tas
+                    -k1.lst) TABS(2) OBJECT(.\Objects\task1.obj)
+
+line level    source
+
+   1          #include <reg51.h>
+   2          
+   3          sbit mybit = P1^3;
+   4          
+   5          void startTimer(){
+   6   1      
+   7   1        TMOD = 0x01;
+   8   1        IE = 0x82;
+   9   1        
+  10   1      }
+  11          
+  12          void timer0() interrupt 1 {
+  13   1         if(mybit){
+  14   2           TH0 = 0xFD;
+  15   2           TL0 = 0x61;
+  16   2         }
+  17   1         else{
+  18   2           TH0 = 0xFC;
+  19   2           TL0 = 0x17;
+  20   2         }
+  21   1         mybit = ~mybit; 
+  22   1      }
+  23          
+  24          void init(){
+  25   1        TR0 = 1;  
+  26   1      }
+  27          
+  28          void main(){
+  29   1        startTimer();
+  30   1        init();
+  31   1      }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =     36    ----
+   CONSTANT SIZE    =   ----    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =   ----    ----
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)

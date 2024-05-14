@@ -1,0 +1,31 @@
+A51 MACRO ASSEMBLER  LAB_2_TASK_3                                                         02/20/2024 10:47:55 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.2.7.0
+OBJECT MODULE PLACED IN .\Objects\Lab_2_task_3.obj
+ASSEMBLER INVOKED BY: C:\Keil_v5\C51\BIN\A51.EXE Lab_2_task_3.a51 SET(SMALL) DEBUG PRINT(.\Listings\Lab_2_task_3.lst) OB
+                      JECT(.\Objects\Lab_2_task_3.obj) EP
+
+LOC  OBJ            LINE     SOURCE
+
+0000 7910              1     MOV R1,#16
+0002                   2     NEXT:
+0002 8980              3             MOV P0, R1
+0004 D9FC              4             DJNZ R1, NEXT
+                       5     END
+A51 MACRO ASSEMBLER  LAB_2_TASK_3                                                         02/20/2024 10:47:55 PAGE     2
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+NEXT . . . . . . .  C ADDR   0002H   A   
+P0 . . . . . . . .  D ADDR   0080H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)

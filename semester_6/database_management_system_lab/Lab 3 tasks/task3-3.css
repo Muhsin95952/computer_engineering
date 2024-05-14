@@ -1,0 +1,10 @@
+h1 {
+    color: red;
+    font-family: garamond;
+    font-size: 26pt;
+}
+
+ul {
+    marker-end: 5%;
+    list-style-type: square;
+}

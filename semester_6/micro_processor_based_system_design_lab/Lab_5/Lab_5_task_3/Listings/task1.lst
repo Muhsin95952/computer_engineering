@@ -1,0 +1,75 @@
+C51 COMPILER V9.60.7.0   TASK1                                                             03/26/2024 23:37:45 PAGE 1   
+
+
+C51 COMPILER V9.60.7.0, COMPILATION OF MODULE TASK1
+OBJECT MODULE PLACED IN .\Objects\task1.obj
+COMPILER INVOKED BY: C:\Keil_v5\C51\BIN\C51.EXE task1.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\tas
+                    -k1.lst) TABS(2) OBJECT(.\Objects\task1.obj)
+
+line level    source
+
+   1          #include <reg51.h>
+   2          
+   3          void delay(void);
+   4          
+   5          void main(void){
+   6   1      P0 = 0x00;
+   7   1      for(;;){
+   8   2        P0 = 0x40;  //0
+   9   2        delay();
+  10   2        P0 = 0xF9;  //1
+  11   2        delay();  
+  12   2        P0 = 0x24;  //2
+  13   2        delay();
+  14   2        P0 = 0x30;  //3
+  15   2        delay();
+  16   2        P0 = 0x19;  //4
+  17   2        delay();
+  18   2        P0 = 0x12;  //5
+  19   2        delay();
+  20   2        P0 = 0x02;  //6
+  21   2        delay();
+  22   2        P0 = 0xF8;  //7
+  23   2        delay();
+  24   2        P0 = 0x00;  //8
+  25   2        delay();
+  26   2        P0 = 0x18;  //9
+  27   2        delay();
+  28   2        P0 = 0x08;  //A
+  29   2        delay();
+  30   2        P0 = 0x03;  //B
+  31   2        delay();
+  32   2        P0 = 0x46;  //C
+  33   2        delay();
+  34   2        P0 = 0x21;  //D
+  35   2        delay();
+  36   2        P0 = 0x06;  //E
+  37   2        delay();
+  38   2        P0 = 0x0E;  //F
+  39   2        delay();  
+  40   2      }
+  41   1      }
+  42          void delay(void){
+  43   1        unsigned int i;
+  44   1        for(i = 0; i < 30000; i++);
+  45   1        for( i = 0; i < 30000; i++);
+  46   1        for( i = 0; i < 30000; i++);
+  47   1        for( i = 0; i < 30000; i++);
+  48   1        
+  49   1      }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =    158    ----
+   CONSTANT SIZE    =   ----    ----
+C51 COMPILER V9.60.7.0   TASK1                                                             03/26/2024 23:37:45 PAGE 2   
+
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =   ----    ----
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)

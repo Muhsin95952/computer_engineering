@@ -1,0 +1,170 @@
+BL51 BANKED LINKER/LOCATER V6.22.4.0                                                    05/14/2024  10:13:05  PAGE 1
+
+
+BL51 BANKED LINKER/LOCATER V6.22.4.0, INVOKED BY:
+C:\KEIL_V5\C51\BIN\BL51.EXE .\Objects\STARTUP.obj, .\Objects\task_3.obj TO .\Objects\task_2 PRINT (.\Listings\task_2.m51
+>> )
+
+
+MEMORY MODEL: SMALL
+
+
+INPUT MODULES INCLUDED:
+  .\Objects\STARTUP.obj (?C_STARTUP)
+  .\Objects\task_3.obj (TASK_3)
+
+
+LINK MAP OF MODULE:  .\Objects\task_2 (?C_STARTUP)
+
+
+            TYPE    BASE      LENGTH    RELOCATION   SEGMENT NAME
+            -----------------------------------------------------
+
+            * * * * * * *   D A T A   M E M O R Y   * * * * * * *
+            REG     0000H     0008H     ABSOLUTE     "REG BANK 0"
+            IDATA   0008H     0001H     UNIT         ?STACK
+
+            * * * * * * *   C O D E   M E M O R Y   * * * * * * *
+            CODE    0000H     0003H     ABSOLUTE     
+                    0003H     0008H                  *** GAP ***
+            CODE    000BH     0003H     ABSOLUTE     
+                    000EH     07F2H                  *** GAP ***
+            CODE    0800H     002AH     UNIT         ?PR?TIMER?TASK_3
+            CODE    082AH     000CH     UNIT         ?C_C51STARTUP
+            CODE    0836H     0008H     UNIT         ?PR?MAIN?TASK_3
+            CODE    083EH     0007H     UNIT         ?PR?START_TIMER?TASK_3
+            CODE    0845H     0003H     UNIT         ?PR?INIT?TASK_3
+
+
+
+OVERLAY MAP OF MODULE:   .\Objects\task_2 (?C_STARTUP)
+
+
+SEGMENT
+  +--> CALLED SEGMENT
+---------------------
+?C_C51STARTUP
+  +--> ?PR?MAIN?TASK_3
+
+?PR?MAIN?TASK_3
+  +--> ?PR?START_TIMER?TASK_3
+  +--> ?PR?INIT?TASK_3
+
+
+
+SYMBOL TABLE OF MODULE:  .\Objects\task_2 (?C_STARTUP)
+
+  VALUE           TYPE          NAME
+  ----------------------------------
+
+  -------         MODULE        ?C_STARTUP
+  C:082AH         SEGMENT       ?C_C51STARTUP
+BL51 BANKED LINKER/LOCATER V6.22.4.0                                                  05/14/2024  10:13:05  PAGE 2
+
+
+  I:0008H         SEGMENT       ?STACK
+  C:0000H         PUBLIC        ?C_STARTUP
+  D:00E0H         SYMBOL        ACC
+  D:00F0H         SYMBOL        B
+  D:0083H         SYMBOL        DPH
+  D:0082H         SYMBOL        DPL
+  N:0000H         SYMBOL        IBPSTACK
+  N:0100H         SYMBOL        IBPSTACKTOP
+  N:0080H         SYMBOL        IDATALEN
+  C:082DH         SYMBOL        IDATALOOP
+  N:0000H         SYMBOL        PBPSTACK
+  N:0100H         SYMBOL        PBPSTACKTOP
+  N:0000H         SYMBOL        PDATALEN
+  N:0000H         SYMBOL        PDATASTART
+  N:0000H         SYMBOL        PPAGE
+  N:0000H         SYMBOL        PPAGEENABLE
+  D:00A0H         SYMBOL        PPAGE_SFR
+  D:0081H         SYMBOL        SP
+  C:082AH         SYMBOL        STARTUP1
+  N:0000H         SYMBOL        XBPSTACK
+  N:0000H         SYMBOL        XBPSTACKTOP
+  N:0000H         SYMBOL        XDATALEN
+  N:0000H         SYMBOL        XDATASTART
+  C:0000H         LINE#         126
+  C:082AH         LINE#         133
+  C:082CH         LINE#         134
+  C:082DH         LINE#         135
+  C:082EH         LINE#         136
+  C:0830H         LINE#         185
+  C:0833H         LINE#         196
+  -------         ENDMOD        ?C_STARTUP
+
+  -------         MODULE        TASK_3
+  C:0000H         SYMBOL        _ICE_DUMMY_
+  D:00A0H         PUBLIC        P2
+  D:00B0H         PUBLIC        P3
+  D:00A8H         PUBLIC        IE
+  B:00B0H.2       PUBLIC        button
+  C:0800H         PUBLIC        timer
+  C:0836H         PUBLIC        main
+  B:00A0H.0       PUBLIC        mybit
+  D:0089H         PUBLIC        TMOD
+  C:0845H         PUBLIC        init
+  C:083EH         PUBLIC        start_timer
+  D:008CH         PUBLIC        TH0
+  D:008AH         PUBLIC        TL0
+  B:0088H.4       PUBLIC        TR0
+  -------         PROC          START_TIMER
+  C:083EH         LINE#         6
+  C:083EH         LINE#         7
+  C:083EH         LINE#         8
+  C:0841H         LINE#         9
+  C:0844H         LINE#         10
+  -------         ENDPROC       START_TIMER
+  -------         PROC          TIMER
+  C:0800H         LINE#         12
+  C:0800H         LINE#         14
+BL51 BANKED LINKER/LOCATER V6.22.4.0                                                  05/14/2024  10:13:05  PAGE 3
+
+
+  C:0803H         LINE#         15
+  C:0803H         LINE#         16
+  C:0806H         LINE#         17
+  C:0806H         LINE#         18
+  C:0809H         LINE#         19
+  C:080CH         LINE#         20
+  C:080EH         LINE#         22
+  C:080EH         LINE#         23
+  C:0811H         LINE#         24
+  C:0814H         LINE#         25
+  C:0814H         LINE#         27
+  C:0816H         LINE#         29
+  C:0816H         LINE#         30
+  C:0819H         LINE#         31
+  C:0819H         LINE#         32
+  C:081CH         LINE#         33
+  C:081FH         LINE#         34
+  C:0821H         LINE#         36
+  C:0821H         LINE#         37
+  C:0824H         LINE#         38
+  C:0827H         LINE#         39
+  C:0827H         LINE#         40
+  C:0827H         LINE#         41
+  C:0829H         LINE#         42
+  -------         ENDPROC       TIMER
+  -------         PROC          INIT
+  C:0845H         LINE#         44
+  C:0845H         LINE#         45
+  C:0845H         LINE#         46
+  C:0847H         LINE#         47
+  -------         ENDPROC       INIT
+  -------         PROC          MAIN
+  C:0836H         LINE#         49
+  C:0836H         LINE#         50
+  C:0836H         LINE#         51
+  C:0839H         LINE#         52
+  C:083CH         LINE#         53
+  -------         ENDPROC       MAIN
+  -------         ENDMOD        TASK_3
+
+******************************************************************************
+* RESTRICTED VERSION WITH 0800H BYTE CODE SIZE LIMIT; USED: 004EH BYTE ( 3%) *
+******************************************************************************
+
+Program Size: data=9.0 xdata=0 code=78
+LINK/LOCATE RUN COMPLETE.  0 WARNING(S),  0 ERROR(S)

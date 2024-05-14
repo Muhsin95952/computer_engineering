@@ -1,0 +1,48 @@
+A51 MACRO ASSEMBLER  LAB_01                                                               02/25/2024 21:52:04 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.2.7.0
+OBJECT MODULE PLACED IN .\Objects\Lab_01.obj
+ASSEMBLER INVOKED BY: C:\Keil_v5\C51\BIN\A51.EXE Lab_01.a51 SET(SMALL) DEBUG PRINT(.\Listings\Lab_01.lst) OBJECT(.\Objec
+                      ts\Lab_01.obj) EP
+
+LOC  OBJ            LINE     SOURCE
+
+0000                   1     ORG 0x00   ; Set the origin to address 0
+                       2     
+0000                   3     MAIN:      ; Main code starts here
+0000 7590FF            4         MOV P1, #0xFF  ; Set all pins of P1 as high
+0003 75A0FF            5         MOV P2, #0xFF  ; Set all pins of P2 as high
+                       6     
+0006                   7         LOOP:
+0006 F590              8             MOV P1, A   ; Toggle P1
+0008 F5A0              9             MOV P2, A   ; Toggle P2
+000A 110E             10             ACALL DELAY ; Call delay subroutine
+000C 80F8             11             SJMP LOOP   ; Jump back to LOOP
+                      12     
+000E                  13     DELAY:     ; Delay subroutine
+000E 7AFF             14         MOV R2, #0xFF
+0010                  15     DELAY_LOOP:
+0010 DAFE             16         DJNZ R2, DELAY_LOOP
+0012 22               17         RET
+*** WARNING #A41 IN 17 (Lab_01.a51, LINE 17): MISSING 'END' STATEMENT
+A51 MACRO ASSEMBLER  LAB_01                                                               02/25/2024 21:52:04 PAGE     2
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+DELAY. . . . . . .  C ADDR   000EH   A   
+DELAY_LOOP . . . .  C ADDR   0010H   A   
+LOOP . . . . . . .  C ADDR   0006H   A   
+MAIN . . . . . . .  C ADDR   0000H   A   
+P1 . . . . . . . .  D ADDR   0090H   A   
+P2 . . . . . . . .  D ADDR   00A0H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  1 WARNING(S), 0 ERROR(S)

@@ -1,0 +1,111 @@
+C51 COMPILER V9.60.7.0   TASK3                                                             05/14/2024 09:57:15 PAGE 1   
+
+
+C51 COMPILER V9.60.7.0, COMPILATION OF MODULE TASK3
+OBJECT MODULE PLACED IN .\Objects\task3.obj
+COMPILER INVOKED BY: C:\Keil_v5\C51\BIN\C51.EXE task3.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\tas
+                    -k3.lst) TABS(2) OBJECT(.\Objects\task3.obj)
+
+line level    source
+
+   1          #include <reg51.h>
+   2          #include <stdio.h>
+   3          
+   4          sbit button = P3^2;
+   5          
+   6          sbit pin =P2^0;
+   7          unsigned int count = 0;
+   8          unsigned int btn = 1;
+   9          
+  10          void start_timer0(){
+  11   1         TR0 = 1;
+  12   1      }
+  13          void timer0_interrupt() interrupt 1 {
+  14   1      
+  15   1            pin = ~pin;
+  16   1          
+  17   1            if(count==0){
+  18   2            
+  19   2              if(pin==0){
+  20   3              
+  21   3                TH0= 0xd8;
+  22   3                TL0 = 0xef; 
+  23   3              }
+  24   2              else{
+  25   3                TH0= 0x50;
+  26   3                TL0 = 0x37; 
+  27   3              }
+  28   2            }else if(count==1){
+  29   2            
+  30   2              if(pin==0){
+  31   3              
+  32   3                TH0= 0xd8; 
+  33   3                TL0 = 0xef; 
+  34   3              }
+  35   2              else{
+  36   3                TH0= 0x63; 
+  37   3                TL0 = 0xbf; 
+  38   3              }
+  39   2            }else if(count==2){
+  40   2              if(pin==0){
+  41   3              
+  42   3                TH0= 0xd8; 
+  43   3                TL0 = 0xef; 
+  44   3              }
+  45   2              else{
+  46   3                TH0= 0xc5; 
+  47   3                TL0 = 0x67; 
+  48   3              }
+  49   2            } else {
+  50   2              if(pin==0){
+  51   3              
+  52   3                TH0= 0xd8; 
+  53   3                TL0 = 0xef; 
+  54   3              }
+C51 COMPILER V9.60.7.0   TASK3                                                             05/14/2024 09:57:15 PAGE 2   
+
+  55   2              else{
+  56   3                TH0= 0xf6; 
+  57   3                TL0 = 0x3b; 
+  58   3              }
+  59   2              }
+  60   1            }
+  61          void init_timer0(){
+  62   1         TMOD = 0x01;
+  63   1         IE = 0x82;
+  64   1      } 
+  65          
+  66          void main(void){ 
+  67   1          P2 = 0;
+  68   1          init_timer0();
+  69   1          start_timer0();
+  70   1          
+  71   1          while (1){
+  72   2            P1 = count;
+  73   2          if(button ==0 && btn)
+  74   2            {
+  75   3              count++;
+  76   3              btn = 0;
+  77   3            }
+  78   2            else if(button == 1)
+  79   2            {btn = 1;}
+  80   2            if(count==3){ 
+  81   3              count=0;
+  82   3            }
+  83   2          }
+  84   1          
+  85   1       }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =    154    ----
+   CONSTANT SIZE    =   ----    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =      4    ----
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)

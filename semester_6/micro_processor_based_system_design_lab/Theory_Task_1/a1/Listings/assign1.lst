@@ -1,0 +1,48 @@
+A51 MACRO ASSEMBLER  ASSIGN1                                                              03/19/2024 08:28:23 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.2.7.0
+OBJECT MODULE PLACED IN .\Objects\assign1.obj
+ASSEMBLER INVOKED BY: C:\Keil_v5\C51\BIN\A51.EXE assign1.a51 SET(SMALL) DEBUG PRINT(.\Listings\assign1.lst) OBJECT(.\Obj
+                      ects\assign1.obj) EP
+
+LOC  OBJ            LINE     SOURCE
+
+                       1     ; Define the delay function
+0000                   2     delay_10ms:
+                       3         ; Initialize a counter
+0000 7864              4         MOV R0, #100 ; 100 iterations for 1ms delay
+                       5     
+0002                   6     delay_loop:
+                       7         ; Inner loop for 1ms delay
+0002 79FA              8         MOV R1, #250 ; Adjust this value based on your clock frequency
+0004 D9FE              9         DJNZ R1, $ ; Decrement R1 and jump if not zero
+0006 D8FA             10         DJNZ R0, delay_loop ; Decrement R0 and repeat if not zero
+0008 22               11         RET ; Return from the delay function
+                      12     
+                      13     ; Main program
+0000                  14     ORG 0x0000 ; Start address
+0000                  15     MAIN:
+0000 1100             16         CALL delay_10ms ; Call the delay function for 10ms delay
+                      17         ; Your LED control code here
+0002 80FC             18         SJMP MAIN ; Repeat indefinitely
+                      19     
+                      20     ; End of program
+*** WARNING #A41 IN 20 (assign1.a51, LINE 20): MISSING 'END' STATEMENT
+A51 MACRO ASSEMBLER  ASSIGN1                                                              03/19/2024 08:28:23 PAGE     2
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+DELAY_10MS . . . .  C ADDR   0000H   A   
+DELAY_LOOP . . . .  C ADDR   0002H   A   
+MAIN . . . . . . .  C ADDR   0000H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  1 WARNING(S), 0 ERROR(S)

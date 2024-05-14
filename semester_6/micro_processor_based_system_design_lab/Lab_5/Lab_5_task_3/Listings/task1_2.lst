@@ -1,0 +1,36 @@
+C51 COMPILER V9.60.7.0   TASK1_2                                                           03/26/2024 23:37:45 PAGE 1   
+
+
+C51 COMPILER V9.60.7.0, COMPILATION OF MODULE TASK1_2
+OBJECT MODULE PLACED IN .\Objects\task1_2.obj
+COMPILER INVOKED BY: C:\Keil_v5\C51\BIN\C51.EXE task1_2.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\t
+                    -ask1_2.lst) TABS(2) OBJECT(.\Objects\task1_2.obj)
+
+line level    source
+
+   1          #include <reg51.h>
+   2          
+   3          void main(void){
+   4   1        
+   5   1      P0 = 0x00;
+   6   1        
+   7   1      for(;;){
+   8   2        
+   9   2        P0 = 0xF9;  //1
+  10   2      
+  11   2      }
+  12   1      }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =      8    ----
+   CONSTANT SIZE    =   ----    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =   ----    ----
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)

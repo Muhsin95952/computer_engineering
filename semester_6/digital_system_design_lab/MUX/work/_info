@@ -1,0 +1,249 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/Lab_01
+vm2to1
+Z0 !s110 1709150005
+!i10b 1
+!s100 @:U[Y92Z_]27do@_iQ_XW2
+Ig?kf^Cm0nXX_MfW_146eR3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/6th semester DCSE/Digital System Design Lab/Lab_tasks/MUX
+w1709141428
+8D:/6th semester DCSE/Digital System Design/MUX/m2to1.v
+FD:/6th semester DCSE/Digital System Design/MUX/m2to1.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1709150005.000000
+!s107 D:/6th semester DCSE/Digital System Design/MUX/m2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design/MUX/m2to1.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vm4to1
+R0
+!i10b 1
+!s100 z[nK6hR6b;_dCANG4VMZk3
+I@keEY;i4BjeHY@dmPoDIE2
+R1
+R2
+w1709141431
+8D:/6th semester DCSE/Digital System Design/MUX/m4to1.v
+FD:/6th semester DCSE/Digital System Design/MUX/m4to1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/6th semester DCSE/Digital System Design/MUX/m4to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/Digital System Design/MUX/m4to1.v|
+!i113 1
+R5
+R6
+vm4to1_tst
+R0
+!i10b 1
+!s100 X4[U<L6[=J]l8l253oIC53
+I^IHkFPZZZ=m_FJCCJJQa72
+R1
+R2
+w1709148531
+8D:\6th semester DCSE\Digital System Design\MUX\m4to1_tst.v
+FD:\6th semester DCSE\Digital System Design\MUX\m4to1_tst.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\6th semester DCSE\Digital System Design\MUX\m4to1_tst.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design\MUX\m4to1_tst.v|
+!i113 1
+R5
+R6
+vMUX2x1
+R0
+!i10b 1
+!s100 1894DVK5iSoRSiY60k1HY1
+I43OFQQ0bSIjjP71d?;HIG3
+R1
+R2
+w1709144617
+8D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX2x1.v
+FD:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX2x1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX2x1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX2x1.v|
+!i113 1
+R5
+R6
+n@m@u@x2x1
+vMUX2x1_tb
+R0
+!i10b 1
+!s100 @zXW;=<A639TCMN[O0[WO2
+IC3j1fA7kb=A:I[@hUcSJ83
+R1
+R2
+w1709144980
+8D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX2x1_tb.v
+FD:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX2x1_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX2x1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX2x1_tb.v|
+!i113 1
+R5
+R6
+n@m@u@x2x1_tb
+vMUX4x1
+R0
+!i10b 1
+!s100 MlTGb0UQ37RdTe=U=Y?X<2
+InA_hKbHK4bFYc8EVcIEN11
+R1
+R2
+w1709145553
+8D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1.v
+FD:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1.v|
+!i113 1
+R5
+R6
+n@m@u@x4x1
+vMUX4x1_tb
+R0
+!i10b 1
+!s100 VhNKoG@e7NgUEXe2<T5`L2
+I^E=nTPSgh0EGnYdo>PTB_1
+R1
+R2
+w1709147108
+8D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1_tb.v
+FD:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1_tb.v|
+!i113 1
+R5
+R6
+n@m@u@x4x1_tb
+vMUX4x1_using_2x1
+R0
+!i10b 1
+!s100 @eZR;h?m?i;MG_dNiL5bC0
+Ie=mAcg=8_IG>dnzHVGHNB1
+R1
+R2
+w1709147949
+8D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1_using_2x1.v
+FD:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1_using_2x1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1_using_2x1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1_using_2x1.v|
+!i113 1
+R5
+R6
+n@m@u@x4x1_using_2x1
+vMUX4x1_using_2x1_tb
+R0
+!i10b 1
+!s100 d_9iKYmEKQkKZe6]hbK<l0
+IPlka2U8=H2zK[d>Si_YWG2
+R1
+R2
+w1709148032
+8D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1_using_2x1_tb.v
+FD:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1_using_2x1_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1_using_2x1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX4x1_using_2x1_tb.v|
+!i113 1
+R5
+R6
+n@m@u@x4x1_using_2x1_tb
+vMUX8x1_using_4x1
+R0
+!i10b 1
+!s100 LJOVUj[8ZO3b>U7<kMAE02
+IOjI[;Adggo9[d6O@O[hjT3
+R1
+R2
+w1709149794
+8D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX8x1_using_4x1.v
+FD:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX8x1_using_4x1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX8x1_using_4x1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX8x1_using_4x1.v|
+!i113 1
+R5
+R6
+n@m@u@x8x1_using_4x1
+vMUX8x1_using_4x1_tb
+R0
+!i10b 1
+!s100 Sc[cfAn_Gc<Ea`?6Q8TZL2
+I>T[_OV^[8annBOeUJRb=Y2
+R1
+R2
+w1709149642
+8D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX8x1_using_4x1_tb.v
+FD:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX8x1_using_4x1_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX8x1_using_4x1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\Lab_tasks\MUX\MUX8x1_using_4x1_tb.v|
+!i113 1
+R5
+R6
+n@m@u@x8x1_using_4x1_tb

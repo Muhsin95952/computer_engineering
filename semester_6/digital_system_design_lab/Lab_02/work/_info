@@ -1,0 +1,418 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vandgate
+Z0 !s110 1708108699
+!i10b 1
+!s100 zF<n<[V@Tz3WhgS1=;ON31
+IYeHSXcgEU2lE?dkJKZ@RR2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/6th semester DCSE/DSD Lab
+w1707898977
+8D:/6th semester DCSE/DSD Lab/and.v
+FD:/6th semester DCSE/DSD Lab/and.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1708108699.000000
+!s107 D:/6th semester DCSE/DSD Lab/and.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/DSD Lab/and.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vandgate_tb
+Z7 !s110 1708108700
+!i10b 1
+!s100 Z;lm5DRGEI3Ah<3^a[JX<2
+InjYWeG`DhQC1`kYNT1hBE1
+R1
+R2
+w1707901069
+8D:/6th semester DCSE/DSD Lab/and_tb.v
+FD:/6th semester DCSE/DSD Lab/and_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/6th semester DCSE/DSD Lab/and_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/DSD Lab/and_tb.v|
+!i113 1
+R5
+R6
+vbuffer
+R0
+!i10b 1
+!s100 LKN@eA^SjF1[M0d5J1[_K1
+IBG15VFnef_TA1LJl5[k841
+R1
+R2
+w1707898407
+8D:/6th semester DCSE/DSD Lab/buffer.v
+FD:/6th semester DCSE/DSD Lab/buffer.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/6th semester DCSE/DSD Lab/buffer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/DSD Lab/buffer.v|
+!i113 1
+R5
+R6
+vbuffer_tb
+R0
+!i10b 1
+!s100 bl5GRK:fFX^6VfA>9Q2Az2
+I0IY^ReOZEQ`oN[3]>e3JS3
+R1
+R2
+w1707898584
+8D:/6th semester DCSE/DSD Lab/buffer_tb.v
+FD:/6th semester DCSE/DSD Lab/buffer_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/6th semester DCSE/DSD Lab/buffer_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/DSD Lab/buffer_tb.v|
+!i113 1
+R5
+R6
+vcarry
+Z8 !s110 1708508448
+!i10b 1
+!s100 =WiGR3j:=UQEca3Wij7?f1
+I9Ee<lI2e5M@z^d0SP7cDk2
+R1
+Z9 dD:/6th semester DCSE/Digital System Design Lab
+w1708502458
+8D:\6th semester DCSE\Digital System Design Lab\carry.v
+FD:\6th semester DCSE\Digital System Design Lab\carry.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z10 !s108 1708508448.000000
+!s107 D:\6th semester DCSE\Digital System Design Lab\carry.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\carry.v|
+!i113 1
+R5
+R6
+vfullAdder
+R8
+!i10b 1
+!s100 KCc1iJnMOc2:;=dgeAYKU0
+I57>W6Gn^bI8z6V[I3bhXa1
+R1
+R9
+w1708503287
+8D:\6th semester DCSE\Digital System Design Lab\fullAdder.v
+FD:\6th semester DCSE\Digital System Design Lab\fullAdder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:\6th semester DCSE\Digital System Design Lab\fullAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\fullAdder.v|
+!i113 1
+R5
+R6
+nfull@adder
+vfullAdder_lvl
+R8
+!i10b 1
+!s100 klz47KHVT^IjcVQg5a5>53
+I18J80SldgQ:j?78O;_b1Z2
+R1
+R9
+w1708507668
+8D:\6th semester DCSE\Digital System Design Lab\fullAdder_lvl.v
+FD:\6th semester DCSE\Digital System Design Lab\fullAdder_lvl.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:\6th semester DCSE\Digital System Design Lab\fullAdder_lvl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\fullAdder_lvl.v|
+!i113 1
+R5
+R6
+nfull@adder_lvl
+vhalfAdder
+R8
+!i10b 1
+!s100 2kkZGDBk_3Ajinnzz16bN2
+I?h8z9ea[S:5hhDQ8_MDYE3
+R1
+R9
+w1708502660
+8D:\6th semester DCSE\Digital System Design Lab\halfAdder.v
+FD:\6th semester DCSE\Digital System Design Lab\halfAdder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:\6th semester DCSE\Digital System Design Lab\halfAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\halfAdder.v|
+!i113 1
+R5
+R6
+nhalf@adder
+vnot_gate
+R0
+!i10b 1
+!s100 boaRH3BgHh2Jhz4=m80>[1
+IeBlD>n6KJ<:zXL^ma^^mM1
+R1
+R2
+w1707898708
+8D:/6th semester DCSE/DSD Lab/not.v
+FD:/6th semester DCSE/DSD Lab/not.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/6th semester DCSE/DSD Lab/not.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/DSD Lab/not.v|
+!i113 1
+R5
+R6
+vnot_gate_tb
+R0
+!i10b 1
+!s100 l=>Ohc<ha;4mh<[EkEBoJ2
+I222]CNMcQHU]N86H0EA2C3
+R1
+R2
+w1707898754
+8D:/6th semester DCSE/DSD Lab/not_tb.v
+FD:/6th semester DCSE/DSD Lab/not_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/6th semester DCSE/DSD Lab/not_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/DSD Lab/not_tb.v|
+!i113 1
+R5
+R6
+vOR_gate
+R7
+!i10b 1
+!s100 >N77hJ=lHBofELg95nB=W2
+I[nFU61Bfgz9bhBm54S6S10
+R1
+R2
+w1707899572
+8D:/6th semester DCSE/DSD Lab/OR_using_NAND.v
+FD:/6th semester DCSE/DSD Lab/OR_using_NAND.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z11 !s108 1708108700.000000
+!s107 D:/6th semester DCSE/DSD Lab/OR_using_NAND.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/DSD Lab/OR_using_NAND.v|
+!i113 1
+R5
+R6
+n@o@r_gate
+vOR_gate_tb
+R7
+!i10b 1
+!s100 PQD>m]4LZ[4ILcPFCcLS73
+IkB6M_ALWJ45mT?^o@[MH23
+R1
+R2
+w1707901046
+8D:/6th semester DCSE/DSD Lab/OR_using_NAND_tb.v
+FD:/6th semester DCSE/DSD Lab/OR_using_NAND_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 D:/6th semester DCSE/DSD Lab/OR_using_NAND_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/DSD Lab/OR_using_NAND_tb.v|
+!i113 1
+R5
+R6
+n@o@r_gate_tb
+vquiz
+R7
+!i10b 1
+!s100 MCZW`^ODNkGB0P^OCiXQh1
+Ik^T]AhhchjKo9Y5DNZHT50
+R1
+R2
+w1708108695
+8D:/6th semester DCSE/DSD Lab/quiz.v
+FD:/6th semester DCSE/DSD Lab/quiz.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 D:/6th semester DCSE/DSD Lab/quiz.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/DSD Lab/quiz.v|
+!i113 1
+R5
+R6
+vquiz_tb
+R7
+!i10b 1
+!s100 ScJ2WNOX7JLh?Rn5o29f43
+IJCmBeTjIdB4GBl?20NLcT3
+R1
+R2
+w1707901917
+8D:/6th semester DCSE/DSD Lab/quiz_tb.v
+FD:/6th semester DCSE/DSD Lab/quiz_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 D:/6th semester DCSE/DSD Lab/quiz_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th semester DCSE/DSD Lab/quiz_tb.v|
+!i113 1
+R5
+R6
+vrippleCarryAdder
+R8
+!i10b 1
+!s100 4[^zRQZ5S0Gg?iTc?B5go0
+IJG4kIeS?G?FSe=;beT8]Q3
+R1
+R9
+w1708503815
+8D:\6th semester DCSE\Digital System Design Lab\rippleCarryAdder.v
+FD:\6th semester DCSE\Digital System Design Lab\rippleCarryAdder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:\6th semester DCSE\Digital System Design Lab\rippleCarryAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\rippleCarryAdder.v|
+!i113 1
+R5
+R6
+nripple@carry@adder
+vrippleCarryAdder_lvl
+R8
+!i10b 1
+!s100 aS5_K=fGzHckn2U[Nb>iM3
+I4bN<Pm>4GE]ifm<@W4Fnf1
+R1
+R9
+w1708508402
+8D:\6th semester DCSE\Digital System Design Lab\rippleCarryAdder_lvl.v
+FD:\6th semester DCSE\Digital System Design Lab\rippleCarryAdder_lvl.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:\6th semester DCSE\Digital System Design Lab\rippleCarryAdder_lvl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\rippleCarryAdder_lvl.v|
+!i113 1
+R5
+R6
+nripple@carry@adder_lvl
+vrippleCarryAdder_lvl_tb
+R8
+!i10b 1
+!s100 OGDL4JI17i;m`YL9j[AO<0
+IaF]ezPh5[<_>P?d]MTj]10
+R1
+R9
+w1708508399
+8D:\6th semester DCSE\Digital System Design Lab\rippleCarry Adder_lvl_tb.v
+FD:\6th semester DCSE\Digital System Design Lab\rippleCarry Adder_lvl_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:\6th semester DCSE\Digital System Design Lab\rippleCarry Adder_lvl_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\rippleCarry Adder_lvl_tb.v|
+!i113 1
+R5
+R6
+nripple@carry@adder_lvl_tb
+vrippleCarryAdder_tb
+R8
+!i10b 1
+!s100 gA9@KLUS70=mX]e41>GV<2
+I>E?S2=Pa7Lz5MVT]IA`b]1
+R1
+R9
+w1708508406
+8D:\6th semester DCSE\Digital System Design Lab\ripplecarryAdder_tb.v
+FD:\6th semester DCSE\Digital System Design Lab\ripplecarryAdder_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:\6th semester DCSE\Digital System Design Lab\ripplecarryAdder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\ripplecarryAdder_tb.v|
+!i113 1
+R5
+R6
+nripple@carry@adder_tb
+vsum
+R8
+!i10b 1
+!s100 6VkXLMS^_=Cg8fgLQ[UL23
+IUQz]kQz_FgjjFODdin?2C0
+R1
+R9
+w1708502476
+8D:\6th semester DCSE\Digital System Design Lab\sum.v
+FD:\6th semester DCSE\Digital System Design Lab\sum.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:\6th semester DCSE\Digital System Design Lab\sum.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\6th semester DCSE\Digital System Design Lab\sum.v|
+!i113 1
+R5
+R6
