@@ -1,41 +1,55 @@
+%% Use the MATLAB to find the inverse laplace transform of the 
+%  system transfer function
 
 syms S;
 
 f1 = ilaplace(3/(S*(S^2 + 2*S + 5)));
 pretty(f1);
 
-%%
+%% Use the MATLAB to find the inverse laplace transform of the 
+%  system transfer function
+
 f2 = ilaplace(1/S*(S + 2));
 pretty(f2)
 
-%%
+%% Use the MATLAB to find the inverse laplace transform of the 
+%  system transfer function
+
 f3 = ilaplace(1/S^2);
 pretty(f3)
 
-%%
+%% Use the MATLAB to find the inverse laplace transform of the 
+%  system transfer function
+
 syms a
 f4 = ilaplace(1/(S - a)^2);
 pretty(f4)
 
-%%
-%  Laplace transform
+%% Use the MATLAB to find the laplace transform of the 
+%  system transfer function
 
 syms f t 
 f = t;
 a1 = laplace(f);
 pretty(a1)
 
-%%
+%% Use the MATLAB to find the laplace transform of the 
+%  system transfer function
+
 f = cos(a*t);
 a2 = laplace(f);
 pretty(a2)
 
-%% 
+%%  Use the MATLAB to find the laplace transform of the 
+%  system transfer function
+
 f = 1 + 2*exp(-t) + 3*exp(-2*t);
 a3 = laplace(f);
 pretty(a3)
 
-%% Q8
+%% Q8: Use the MATLAB to find the inverse laplace transform of the 
+%  system transfer function
+
 f = 2*exp(-t) - 2*t*exp(-2*t) - 2*exp(-2*t);
 a4 = laplace(f);
 pretty(a4)

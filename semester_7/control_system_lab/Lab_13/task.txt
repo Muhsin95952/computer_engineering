@@ -1,0 +1,6 @@
+design a negative feedback system both in MaTLAB and Simulink and control the step response og givn system.
+Perform requirement of the closed loop system is that the steady
+state error is zero and overshoot less than 30%.
+
+given system:
+		G(s) = 1 / (s^2 + 3s + 1)

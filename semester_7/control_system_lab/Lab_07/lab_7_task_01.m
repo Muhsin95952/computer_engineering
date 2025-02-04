@@ -7,7 +7,11 @@ B = [2; 0];
 C = [1.5 0.625];
 D = 0;
 
-[num, denum ]= ss2tf(A, B, C, D)
+
+%[num, denum ]= ss2tf(A, B, C, D)
+t = ss(A, B, C, D);
+t = tf(t)
+
 
 %% task 6.3: Write MATLABcode to Covert transfer function to the state space representation
 
@@ -31,6 +35,10 @@ D = 0;
 
 [num, denum ]= ss2tf(A, B, C, D)
 
+t = ss(A, B, C, D);
+t = tf(t)
+
+
 %% task 6.6: Write MATLABcode to convert the state space representation to the transfer function 
 
 A = [3 1 0 4 -2; 
@@ -41,8 +49,5 @@ A = [3 1 0 4 -2;
 B = [2; 7; 8; 5; 4];
 C = [1 -2 -9 7 6];
 D = 0;
-
-% [num, denum ]= ss2tf(A, B, C, D)
-
 t = ss(A, B, C, D);
 t = tf(t)
